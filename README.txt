@@ -1,33 +1,20 @@
-Phantom by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+1.運行說明 (環境設定步驟、測試帳密等)
+　網址：http://jazz1617821.ddns.net
+　管理者帳號：team04
+　管理者密碼：123456789
+　
+
+2.GitHub 專案網址：https://github.com/jazz1617821/Badminton
 
 
-This is Phantom, a simple design built around a grid of large, colorful, semi-interactive
-image tiles (of which you can have as many or as few as you like). Makes use of some
-SVG and animation techniques I've been experimenting with on that other project of mine
-you may have heard about (https://carrd.co), and includes a handy generic page for whatever.
+3.系統額外特色功能說明：RWD響應式網頁設計
+　
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = not included)
-
-AJ
-aj@lkn.io | @ajlkn
-
-
-Credits:
-
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fortawesome.github.com/Font-Awesome)
-
-	Other:
-		jQuery (jquery.com)
-		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
-		Misc. Sass functions (@HugoGiraudel)
-		Respond.js (j.mp/respondjs)
-		Skel (skel.io)
+4.分工情況
+　a.架站：周杰士
+　b.使用者介面設計：任思堯
+　c.查詢場地系統：黃信誠
+　d.預約場地系統：周杰士
+　e.管理場地系統：周杰士
+  f.註冊登入系統：莊烜
+　g.公佈欄系統：程翊
